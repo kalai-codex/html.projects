@@ -1,0 +1,54 @@
+/* Reset default margin/padding of entire page */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header style */
+.header {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+   
+}
+.header h1{
+    padding-bottom: 10px;
+}
+.header p{
+    padding-bottom: 10px;
+    color: rgb(255, 187, 0);
+    cursor: pointer;
+}
+.box {
+    border-color: black;
+    border-width: 2px;
+     border-style: solid;
+     display: inline-block;
+     width: 220px;
+}
+.box img{
+    width: 220px;
+    height: 220px;
+}
+.products{
+    text-align: center;
+    margin-top: 50px;
+}
+.contact-us {
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 10%;
+   
+}
+button {
+ background-color: yellow;
+ color: black;
+ padding-left: 200px;
+ padding-right: 200px;
+ padding-top: 5px;
+ padding-bottom:5px;
+}
