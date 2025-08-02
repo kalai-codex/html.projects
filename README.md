@@ -1,9 +1,7 @@
 # My HTML Projects
 
 This repository contains my HTML, CSS, and JavaScript projects.
-
-## Live Demo
-[Visit the website](https://kalai-codex.github.io/projects/)
+In my page i have uploaded all the image documents which i used in my projects.
 
 ## Features
 - Clean HTML structure
